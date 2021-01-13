@@ -3,14 +3,27 @@
 
 **2** - *Clone your repository*
 
-**3** - *Create a "main.yml" file*
+**3** - *Click to the Action Button* 
+
 ![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/Action-0.png)
 
-**4** - *Commit the main.yml file*
 
-**5** - *Create the secrets (Environnement variables)* 
 
-**6** - *rerun the jobs* 
+
+**4** - *Create a "main.yml" file*
+
+
+![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/create-the-main-yml-2.png)
+
+
+**5** - *Commit the main.yml file*
+
+
+
+
+**6** - *Create the secrets (Environnement variables)* 
+
+**7** - *rerun the jobs* 
 
 **Last Step** - *Push your folder and files in the repository* 
 
