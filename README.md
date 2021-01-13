@@ -53,21 +53,21 @@
 
 ![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/new-repository-secret-6.png)
 
-        **6.1** - *Create The Secrets Password*
+   **6.1** - *Create The Secrets Password*
 
 ![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/create-password-variable-7.png)
 
-        **6.2** - *Create The Secrets Server*
+   **6.2** - *Create The Secrets Server*
         
 
 ![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/create-the-server-variable-8.png)
 
-        **6.3** - *Create The Secrets Username*
+   **6.3** - *Create The Secrets Username*
         
 
 ![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/create-the-username-variable-9.png)
 
-        **6.4** -*See Your different variables*
+   **6.4** -*See Your different variables*
 
 **7** - *rerun the jobs* 
 
