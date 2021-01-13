@@ -4,7 +4,8 @@
 **2** - *Clone your repository*
 
 **3** - *Create a "main.yml" file*
-[](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/Action-0.png)
+![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/Action-0.png)
+
 **4** - *Commit the main.yml file*
 
 **5** - *Create the secrets (Environnement variables)* 
@@ -16,4 +17,4 @@
 And that's it :D Congratulation ! 
 
 **Source** 
-(Le lien de la source ici)[https://github.com/marketplace/actions/ftp-deploy]
+[Le lien de la source ici](https://github.com/marketplace/actions/ftp-deploy)
