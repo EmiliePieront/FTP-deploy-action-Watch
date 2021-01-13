@@ -1,4 +1,7 @@
 ***Tutorial : How to deploy your online website with Github when you use FTP server.***
+![]()
+
+
 **1** - *Create the Repository* 
 
 **2** - *Clone your repository*
@@ -19,13 +22,45 @@
 **5** - *Commit the main.yml file*
 
 
+![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/commit-the-main-3.png)
+
+
+
 
 
 **6** - *Create the secrets (Environnement variables)* 
 
+![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/settings-4.png)
+
+![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/settings-secret-5.png)
+
+![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/new-repository-secret-6.png)
+
+        **6.1** - *Create The Secrets Password*
+
+![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/create-password-variable-7.png)
+
+        **6.2** - *Create The Secrets Server*
+        
+
+![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/create-the-server-variable-8.png)
+
+        **6.3** - *Create The Secrets Username*
+        
+
+![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/create-the-username-variable-9.png)
+
+        **6.4** -*See Your different variables*
+
 **7** - *rerun the jobs* 
 
-**Last Step** - *Push your folder and files in the repository* 
+![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/rerun-the-jobs-11.png)
+
+
+
+**Last Step** - *Push your folders and files in the repository* 
+
+![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/screenshot-filezilla-12.png)
 
 And that's it :D Congratulation ! 
 
