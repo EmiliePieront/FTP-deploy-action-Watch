@@ -33,7 +33,7 @@
                       server: ${{ secrets.FTP_SERVER }}
                       username: ${{ secrets.FTP_USERNAME }}  
                       password: ${{ secrets.FTP_PASSWORD }}
-                      server-dir: /wp-content/themes/TeamPerfect/
+                      server-dir: /wp-content/themes/NomDeVotreTheme/
 
 
 **5** - *Commit the main.yml file*
@@ -77,7 +77,7 @@
 
 **Last Step** - *Push your folders and files in the repository* 
 
-![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/screenshot-filezilla-12.png)
+![](https://github.com/EmiliePieront/FTP-deploy-action-Watch/blob/main/images/screenshot-filezilla-12.png?raw=true)
 
 And that's it :D Congratulation ! 
 
