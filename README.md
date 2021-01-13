@@ -18,6 +18,23 @@
 
 ![](https://raw.githubusercontent.com/EmiliePieront/FTP-deploy-action-Watch/main/images/create-the-main-yml-2.png)
 
+                     
+              on: push
+              name: Publish Website
+              jobs:
+                FTP-Deploy-Action:
+                  name: FTP-Deploy-Action
+                  runs-on: ubuntu-latest
+                  steps:
+                  - uses: actions/checkout@master
+                  - name: FTP-Deploy-Action
+                    uses: SamKirkland/FTP-Deploy-Action@master
+                    with:
+                      server: ${{ secrets.FTP_SERVER }}
+                      username: ${{ secrets.FTP_USERNAME }}  
+                      password: ${{ secrets.FTP_PASSWORD }}
+                      server-dir: /wp-content/themes/TeamPerfect/
+
 
 **5** - *Commit the main.yml file*
 
